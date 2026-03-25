@@ -69,7 +69,8 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="716" height="416" alt="image" src="https://github.com/user-attachments/assets/1d12cb5d-a354-4ee4-82dd-6660f1aa5f2b" />
+
 
 ---
 
@@ -80,12 +81,6 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## Graph
 ![digital](https://github.com/user-attachments/assets/8e6a8369-3545-4385-bc6a-5aa7fb086404)
-
----
-
-
-
-
 ---
 
 ## RESULT
